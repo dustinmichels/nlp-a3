@@ -1,0 +1,5 @@
+part_2_ngrams/wikitext-2-raw/
+
+.DS_Store
+.ipynb_checkpoints
+__pycache__/
